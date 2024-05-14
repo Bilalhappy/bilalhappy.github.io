@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MSc.
+title: Bilal
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: MSc.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,6 +32,7 @@ interests:
   - GNSS
   - PPP
   - Geodesy
+  - Geosensors
 
 # Education to show in About widget
 education:
@@ -53,18 +54,18 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 95
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Bash Scripting
-        description: ''
-        percent: 60
-        icon: chart-line
-        icon_pack: fas
       - name: LaTeX and GMT
         description: ''
         percent: 100
         icon: database
+        icon_pack: fas
+      - name: Bash Scripting
+        description: ''
+        percent: 60
+        icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -98,6 +99,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=bxdwICYAAAAJ
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-9763-0345
   - icon: github
     icon_pack: fab
     link: https://github.com/Bilalhappy
