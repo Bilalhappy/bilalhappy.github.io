@@ -108,9 +108,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mutlubil/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - icon: researchgate
+    icon_pack: academicons
+    link: https://www.researchgate.net/profile/Bilal-Mutlu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
