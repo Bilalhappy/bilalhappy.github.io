@@ -102,7 +102,7 @@ social:
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=bxdwICYAAAAJ
   - icon: orcid
     icon_pack: fab
@@ -114,7 +114,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mutlubil/
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Bilal-Mutlu
 
 # Highlight the author in author lists? (true/false)
