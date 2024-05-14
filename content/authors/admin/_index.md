@@ -57,29 +57,34 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
-      - name: LaTeX and GMT
+      - name: LaTeX & Generic Mapping Tools (GMT)
         description: ''
         percent: 100
-        icon: database
+        icon: pen-ruler
         icon_pack: fas
       - name: Bash Scripting
         description: ''
         percent: 60
-        icon: chart-line
+        icon: terminal
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
+        icon_pack: fas
+      - name: Hiking
+        description: ''
+        percent: 100
+        icon: person-hiking
+        icon_pack: fas
+      - name: Swimming
+        description: ''
+        percent: 60
+        icon: person-swimming
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,8 +101,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=bxdwICYAAAAJ
   - icon: orcid
     icon_pack: fab
@@ -109,7 +114,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mutlubil/
   - icon: researchgate
-    icon_pack: academicons
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Bilal-Mutlu
 
 # Highlight the author in author lists? (true/false)
