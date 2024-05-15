@@ -15,7 +15,7 @@ author_notes:
   - 'Corresponding author'
 
 date: '2021-04-30T00:00:00Z'
-doi: 'https://doi.org/10.5194/egusphere-egu21-12219'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-04-30T00:00:00Z'
@@ -35,7 +35,7 @@ abstract: The earthquake with a magnitude of Mw 6.9 (according to Kandilli Obser
 summary: 
 
 tags: []
-- Source Themes
+
 # Display this page in the Featured widget?
 featured: false
 
