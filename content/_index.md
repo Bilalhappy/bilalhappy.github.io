@@ -73,7 +73,7 @@ sections:
               Responsibilities include:
 
               * Research on satellite geodesy, and GNSS reflectometry.
-              * Teaching
+              * Teaching/assisting lectures on computer programming and geodesy.
     design:
       columns: '2'
   # - block: accomplishments

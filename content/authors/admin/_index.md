@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc.
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -61,6 +61,11 @@ skills:
         description: ''
         percent: 100
         icon: pen-ruler
+        icon_pack: fas
+      - name: GNSS (RTKLIB, TRIMBLE BUSSINESS CENTER, LEICA INFINITY)
+        description: ''
+        percent: 100
+        icon: laptop
         icon_pack: fas
       - name: Bash Scripting
         description: ''
