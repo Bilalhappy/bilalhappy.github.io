@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bilal
+title: Bilal Mutlu
 
 # Name pronunciation (optional)
 name_pronunciation:
