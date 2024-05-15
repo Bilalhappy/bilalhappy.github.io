@@ -35,7 +35,7 @@ abstract: The earthquake with a magnitude of Mw 6.9 (according to Kandilli Obser
 summary: 
 
 tags: []
-
+- Source Themes
 # Display this page in the Featured widget?
 featured: false
 
