@@ -15,7 +15,7 @@ author_notes:
   - 'Corresponding author'
 
 date: '2021-04-30T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.5194/egusphere-egu21-12219'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-04-30T00:00:00Z'
@@ -72,7 +72,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 
