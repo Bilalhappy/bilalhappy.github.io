@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Gallery
-    url: '#gallery'
+    url: '#gallery1'
     weight: 20
   - name: Publications
     url: '#papers'
