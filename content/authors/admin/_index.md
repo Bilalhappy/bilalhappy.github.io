@@ -11,7 +11,7 @@ last_name: Mutlu
 
 # Status emoji
 status:
-  icon: ☕
+  icon: 🌍
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ organizations:
     url: https://www.itu.edu.tr/en/homepage
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include geodesy, and GNSS.
+bio: My research interests include geodesy, and GNSS.For more detailed information you can take a look at the summary of my [Msc Thesis](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT).
 
 # Interests to show in About widget
 interests:
@@ -41,7 +41,6 @@ education:
       institution: Istanbul Technical University
       year: Ongoing
     - course: MSc in Geomatics Engineering 
-      url: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT
       institution: Istanbul Technical University
       year: 2022
     - course: BSc in Geomatics Engineering
