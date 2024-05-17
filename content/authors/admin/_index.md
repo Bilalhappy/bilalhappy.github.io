@@ -40,7 +40,7 @@ education:
     - course: PhD in Geomatics Engineering
       institution: Istanbul Technical University
       year: Ongoing
-    - course: [MSc in Geomatics Engineering](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT)
+    - course: MSc in Geomatics Engineering
       institution: Istanbul Technical University
       year: 2022
     - course: BSc in Geomatics Engineering
