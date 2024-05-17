@@ -25,7 +25,7 @@ organizations:
     url: https://www.itu.edu.tr/en/homepage
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include geodesy, and GNSS.For more detailed information you can take a look at the summary of my [Msc Thesis](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT).
+bio: My research interests include geodesy, and GNSS. For more detailed information you can take a look at the summary of my [Msc Thesis](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT).
 
 # Interests to show in About widget
 interests:
