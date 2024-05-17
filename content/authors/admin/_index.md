@@ -40,7 +40,7 @@ education:
     - course: PhD in Geomatics Engineering
       institution: Istanbul Technical University
       year: Ongoing
-    - course: [MSc in Geomatics Engineering][def]
+    - course: [MSc in Geomatics Engineering](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT)
       institution: Istanbul Technical University
       year: 2022
     - course: BSc in Geomatics Engineering
@@ -128,6 +128,3 @@ highlight_name: true
 
 Hello there!! My research interests include satellite geodesy, and natural hazard monitoring with geosensors.
 {style="text-align: justify;"}
-
-
-[def]: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=kScA8XnrRb0WogX-qPGFkqWAxkBCZT-gwuvhIvcFEdd4IbskePLxuJ8SNQJbYsQT
