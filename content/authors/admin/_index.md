@@ -100,27 +100,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/sakalface
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=bxdwICYAAAAJ
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-9763-0345
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Bilal-Mutlu
   - icon: github
     icon_pack: fab
     link: https://github.com/Bilalhappy
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mutlubil/
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Bilal-Mutlu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/sakalface
+    label: Follow me on Twitter
+    display:
+      header: true
   - icon: spotify
     icon_pack: fab
     link: https://open.spotify.com/user/bilalhappy?si=9c135230eee64b06
