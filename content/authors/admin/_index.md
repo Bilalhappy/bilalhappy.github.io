@@ -122,7 +122,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Bilal-Mutlu
   - icon: spotify
-    icon_pack: ai
+    icon_pack: fab
     link: https://open.spotify.com/user/bilalhappy?si=9c135230eee64b06
 
 # Highlight the author in author lists? (true/false)
