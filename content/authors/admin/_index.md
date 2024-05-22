@@ -103,6 +103,12 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=bxdwICYAAAAJ
+  - icon: scopus # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57724721100
+  - icon: clarivate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/3532997
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-9763-0345
