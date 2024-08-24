@@ -194,7 +194,7 @@ sections:
       form:
         provider: formspree
         formspree: 
-          id: https://formspree.io/f/mutlubil@itu.edu.tr
+          id: https://formspree.io/f/mblrppkj
     design:
       columns: '2'
 ---
