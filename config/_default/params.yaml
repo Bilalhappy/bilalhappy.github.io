@@ -108,14 +108,7 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-    
-form:
-    provider: netlify
-    formspree: "https://formspree.io/f/mblrppkj"
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+
 
 # Security
 
