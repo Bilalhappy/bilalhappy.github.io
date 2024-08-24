@@ -1,7 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
-  contact_form_action = "https://formspree.io/f/mblrppkj"
 [build.environment]
   HUGO_VERSION = "0.123.3"
   HUGO_ENABLEGITINFO = "true"
