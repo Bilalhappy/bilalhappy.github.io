@@ -192,12 +192,9 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: netlify
-        formspree: 'https://formspree.io/mutlubil@itu.edu.tr'
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+        provider: formspree
+        formspree: 
+          id: https://formspree.io/f/mutlubil@itu.edu.tr
     design:
       columns: '2'
 ---
