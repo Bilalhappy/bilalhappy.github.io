@@ -193,11 +193,11 @@ sections:
       # Email form provider
       form:
         provider: netlify
-        formspree:
+        formspree: "https://formspree.io/f/mblrppkj"
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
