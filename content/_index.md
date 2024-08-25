@@ -194,7 +194,7 @@ sections:
       form:
         provider: formspree
         formspree: 
-          id: https://formspree.io/f/mblrppkj
+          id: http://formspree.io/f/mblrppkj
     design:
       columns: '2'
 ---
