@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://files.sciconf.cn/upload/file/20210626/20210626085039_69146.pdf#page=251'
+url_pdf: 'https://drive.google.com/file/d/1bco1MdtW_PGzBeGnjqFkHIUjsoxSzNUF'
 url_code: ''
 url_dataset: ''
 url_poster: ''
