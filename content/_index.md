@@ -170,20 +170,20 @@ sections:
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
-        street: İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, İnşaat Fakültesi, Geomatik Mühendisliği Bölümü, Ofis No:G303, 34469 Sarıyer
+        street: İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, İnşaat Fakültesi, Geomatik Mühendisliği Bölümü, Ofis No:416, 34469 Sarıyer
         city: İstanbul
       #  region: 
       #  postcode: '34469'
       #  country: United States
       #  country_code: US
-      directions: ITU Faculty of Civil Engineering, Department of Geomatics Engineering, Office No:G303, Maslak, Istanbul
+      directions: ITU Faculty of Civil Engineering, Department of Geomatics Engineering, Office No:416, Maslak, Istanbul
       #office_hours:
       #  - 'Monday 10:00 to 12:00'
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude:  '41.104558'
-        longitude: '29.019420'
+        latitude:  '41.104606349451444'
+        longitude: '29.019629033518783'
       contact_links:
         - icon: twitter
           icon_pack: fab
